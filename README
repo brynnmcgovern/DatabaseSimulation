@@ -1,0 +1,50 @@
+README MP4: Inheritance, Interfaces, & Abstract Classes – Oh My!
+1. Brynn McGovern
+   2370579
+   bmcgovern@chapman.edu
+   CPSC 231 - 04
+   MP4: Inheritance, Interfaces, & Abstract Classes – Oh My!
+
+2.  Affiliate.java
+    faculty.java
+    assistant.java
+    associate.java
+    full.java
+    student.java
+    graduate.java
+    undergraduate.java
+    staff.java
+    full_time.java
+    part_time.java
+    AffiliatesDriver.java
+    printable.java
+
+
+3. N/A
+
+4. Used GeekForGeeks website for information on java methods
+
+5. javac Affiliate.java
+   java Affiliate
+   javac faculty.java
+   java faculty
+   javac assistant.java
+   java assistant
+   javac associate.java
+   java associate
+   javac full.java
+   java full
+   javac student.java
+   java student
+   javac graduate.java
+   java graduate
+   javac undergraduate.java
+   java undergraduate
+   javac staff.java
+   java staff
+   javac full_time.java
+   java full_time
+   javac part_time.java
+   java part_time
+   javac AffiliatesDriver.java
+   java AffiliatesDriver
